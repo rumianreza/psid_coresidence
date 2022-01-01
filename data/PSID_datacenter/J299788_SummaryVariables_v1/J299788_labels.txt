@@ -1,0 +1,19 @@
+****** PSID DATA CENTER ************************* 
+****** Variable labels for JobID = 299788 ******* 
+
+Variable    Labels
+
+ER30000    RELEASE NUMBER                          
+ER30001    1968 INTERVIEW NUMBER                   
+ER30002    PERSON NUMBER                         68
+ER32000    SEX OF INDIVIDUAL                       
+ER32006    WHETHER SAMPLE OR NONSAMPLE             
+ER32009    1968 ID OF MOTHER                       
+ER32010    PERSON # OF MOTHER                      
+ER32011    YEAR MOTHER BORN                        
+ER32016    1968 ID OF FATHER                       
+ER32017    PERSON # OF FATHER                      
+ER32018    YEAR FATHER BORN                        
+ER32024    YEAR 1ST/ONLY CHILD BORN                
+
+*** End of labels ******************************* 
