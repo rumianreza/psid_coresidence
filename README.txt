@@ -1,5 +1,5 @@
 Contact: Rumian Reza // rumian.reza@unt.edu
-Final data set: analysis_sample_5655_v2.csv
+Final data set: analysis_sample_5655_v2.csv (analysis_sample_5655_v2.dta)
 
 ***R Scripts (in order of execution):
 	
